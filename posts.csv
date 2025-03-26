@@ -1,0 +1,301 @@
+PostID,UserID,Content,Timestamp,Likes,Retweets,Hashtags,SentimentScore
+1001,18,Super clean design. Impressed.,2023-11-01 04:18:00,146,36,"#mood,#bug,#python",-0.11
+1002,26,Brilliant performance!,2023-10-25 16:43:00,493,50,"#fail,#mood,#cleanUI",0.53
+1003,73,Loving the new update!,2023-10-22 10:02:00,419,57,#cleanUI,-0.87
+1004,53,This app keeps crashing!,2023-11-30 22:26:00,262,91,"#UX,#bug",-0.22
+1005,67,Brilliant performance!,2023-11-21 09:58:00,2,196,"#python,#design,#mood",0.38
+1006,73,Super clean design. Impressed.,2023-10-31 12:13:00,472,178,#fail,-0.88
+1007,42,Loving the new update!,2023-11-27 20:54:00,228,63,"#cleanUI,#mood",0.96
+1008,13,Love the UX and features.,2023-11-26 04:54:00,380,19,#cleanUI,0.78
+1009,14,Loving the new update!,2023-10-02 11:39:00,463,123,#design,0.91
+1010,57,Love the UX and features.,2023-11-05 02:16:00,237,36,"#design,#bug,#fail",0.22
+1011,31,Feeling good about this!,2023-10-17 00:17:00,125,121,"#cleanUI,#UX",0.12
+1012,72,Loving the new update!,2023-11-26 05:31:00,92,54,"#innovation,#python,#tech",0.62
+1013,3,Such a buggy release.,2023-11-11 03:55:00,171,13,#UX,-0.89
+1014,49,Super clean design. Impressed.,2023-11-30 06:02:00,76,172,#bug,0.4
+1015,8,This app keeps crashing!,2023-10-30 06:58:00,51,121,"#fail,#cleanUI",0.12
+1016,8,Super clean design. Impressed.,2023-11-02 08:12:00,106,8,#AI,-0.53
+1017,87,Brilliant performance!,2023-11-10 18:33:00,146,47,"#AI,#UX",0.57
+1018,14,Such a buggy release.,2023-10-24 11:24:00,94,9,"#python,#mood,#AI",0.74
+1019,43,Love the UX and features.,2023-10-21 09:42:00,336,23,"#python,#design,#fail",0.22
+1020,58,This app keeps crashing!,2023-11-12 08:21:00,243,52,"#innovation,#fail,#tech",0.29
+1021,92,Such a buggy release.,2023-11-22 21:46:00,169,190,"#bug,#innovation,#python",-0.43
+1022,58,"Another day, another post.",2023-10-21 15:41:00,86,129,"#bug,#python",-0.72
+1023,59,"Another day, another post.",2023-10-07 22:09:00,190,187,"#UX,#innovation,#tech",-0.78
+1024,43,Such a buggy release.,2023-11-18 20:37:00,143,51,"#bug,#design,#mood",0.69
+1025,76,Worst experience ever.,2023-11-08 12:06:00,369,103,"#innovation,#AI,#UX",0.45
+1026,40,Feeling good about this!,2023-11-23 01:48:00,417,102,#bug,-0.55
+1027,51,Loving the new update!,2023-11-11 21:10:00,131,11,#fail,-0.62
+1028,72,Super clean design. Impressed.,2023-11-29 15:29:00,401,1,#python,-0.4
+1029,84,Brilliant performance!,2023-10-09 11:16:00,406,192,"#python,#AI",0.51
+1030,24,Worst experience ever.,2023-11-15 17:43:00,180,128,#design,0.51
+1031,68,Such a buggy release.,2023-10-30 12:20:00,51,145,#mood,-0.83
+1032,93,"Another day, another post.",2023-10-08 18:29:00,188,139,"#mood,#cleanUI",-0.97
+1033,21,Loving the new update!,2023-11-18 03:30:00,258,137,"#innovation,#cleanUI",-0.25
+1034,35,Feeling good about this!,2023-12-03 02:25:00,15,24,"#fail,#tech",0.29
+1035,100,Brilliant performance!,2023-11-18 20:38:00,471,132,#python,-1.0
+1036,56,Loving the new update!,2023-12-08 01:22:00,73,90,#UX,0.32
+1037,21,This app keeps crashing!,2023-11-05 06:59:00,55,65,"#python,#design",0.18
+1038,8,Such a buggy release.,2023-11-19 23:52:00,403,85,"#bug,#tech,#innovation",-0.28
+1039,78,Such a buggy release.,2023-10-16 04:36:00,175,161,"#python,#AI",0.74
+1040,77,Not bad. Could be better.,2023-10-15 10:06:00,253,190,#innovation,-0.36
+1041,86,Such a buggy release.,2023-10-26 04:57:00,103,24,"#AI,#tech,#design",0.12
+1042,6,This app keeps crashing!,2023-10-26 04:23:00,198,188,#cleanUI,0.44
+1043,83,Not bad. Could be better.,2023-10-08 23:49:00,135,121,"#tech,#design,#bug",0.34
+1044,44,Love the UX and features.,2023-11-18 19:30:00,65,122,"#tech,#innovation",-0.08
+1045,51,Not bad. Could be better.,2023-11-14 23:31:00,481,186,#UX,0.83
+1046,56,"Another day, another post.",2023-12-05 23:36:00,193,19,"#cleanUI,#python",0.49
+1047,68,Love the UX and features.,2023-11-30 23:01:00,422,73,"#UX,#innovation",0.54
+1048,33,Not bad. Could be better.,2023-11-20 00:56:00,80,159,#tech,0.31
+1049,39,This app keeps crashing!,2023-11-23 05:04:00,263,47,"#bug,#design",-0.07
+1050,54,Brilliant performance!,2023-10-02 15:29:00,78,63,"#fail,#mood,#cleanUI",0.9
+1051,41,Feeling good about this!,2023-11-09 10:32:00,422,122,"#AI,#UX",0.73
+1052,60,Worst experience ever.,2023-10-29 03:30:00,95,26,"#innovation,#mood,#AI",-0.26
+1053,94,Such a buggy release.,2023-10-29 17:44:00,304,55,#cleanUI,0.76
+1054,66,"Another day, another post.",2023-11-05 12:47:00,62,117,#UX,0.52
+1055,20,Feeling good about this!,2023-11-23 10:25:00,492,120,"#cleanUI,#innovation,#bug",0.96
+1056,44,This app keeps crashing!,2023-10-07 21:59:00,171,197,"#design,#AI,#innovation",-0.29
+1057,33,This app keeps crashing!,2023-10-10 18:34:00,341,159,"#AI,#design",-0.05
+1058,62,Such a buggy release.,2023-10-28 07:40:00,384,191,"#mood,#UX,#innovation",-0.24
+1059,38,Such a buggy release.,2023-11-08 05:11:00,436,130,#tech,0.12
+1060,13,Such a buggy release.,2023-10-09 13:38:00,356,36,"#design,#mood",0.28
+1061,24,Such a buggy release.,2023-11-02 20:52:00,260,93,"#innovation,#mood,#UX",-0.13
+1062,93,Worst experience ever.,2023-11-11 19:04:00,31,105,"#cleanUI,#UX,#python",0.62
+1063,32,Not bad. Could be better.,2023-11-21 01:13:00,60,156,#python,0.05
+1064,36,Worst experience ever.,2023-10-20 13:46:00,19,165,"#cleanUI,#python",0.44
+1065,97,"Another day, another post.",2023-10-07 17:41:00,333,108,"#AI,#fail",0.91
+1066,12,Brilliant performance!,2023-10-10 00:03:00,478,57,"#bug,#python",0.13
+1067,86,Love the UX and features.,2023-11-26 04:33:00,322,194,"#innovation,#mood,#bug",0.95
+1068,100,Feeling good about this!,2023-12-04 19:54:00,161,100,"#UX,#bug,#cleanUI",0.81
+1069,33,Worst experience ever.,2023-10-13 07:21:00,413,75,#UX,-0.43
+1070,46,This app keeps crashing!,2023-11-29 20:39:00,75,82,#cleanUI,0.14
+1071,36,Love the UX and features.,2023-11-06 21:55:00,111,120,"#python,#fail",0.01
+1072,75,Such a buggy release.,2023-10-02 18:32:00,489,118,#AI,-0.1
+1073,52,This app keeps crashing!,2023-11-18 21:57:00,183,101,"#UX,#python",-0.86
+1074,97,Super clean design. Impressed.,2023-10-11 17:05:00,219,196,"#tech,#innovation",0.6
+1075,69,Feeling good about this!,2023-10-22 13:54:00,4,18,"#cleanUI,#mood",0.26
+1076,9,Love the UX and features.,2023-10-17 17:24:00,80,96,#fail,-0.19
+1077,99,This app keeps crashing!,2023-10-06 12:10:00,439,66,"#python,#bug",0.11
+1078,22,Super clean design. Impressed.,2023-11-12 12:07:00,379,131,"#tech,#AI",-0.04
+1079,12,Love the UX and features.,2023-10-26 19:14:00,51,54,"#UX,#innovation,#design",-0.67
+1080,85,Love the UX and features.,2023-11-27 23:00:00,292,6,"#AI,#mood",-0.54
+1081,4,"Another day, another post.",2023-10-08 14:00:00,466,83,"#innovation,#mood,#design",0.03
+1082,90,Such a buggy release.,2023-12-03 08:27:00,133,19,"#mood,#fail,#UX",-0.82
+1083,72,Super clean design. Impressed.,2023-10-14 03:58:00,211,119,#design,0.25
+1084,14,Brilliant performance!,2023-10-05 16:37:00,193,103,"#fail,#cleanUI",-0.18
+1085,2,Worst experience ever.,2023-10-05 21:40:00,463,77,#cleanUI,0.24
+1086,19,Loving the new update!,2023-11-24 17:29:00,261,93,"#innovation,#AI,#python",-0.98
+1087,96,This app keeps crashing!,2023-10-04 06:13:00,371,146,"#tech,#AI,#UX",-0.44
+1088,73,Super clean design. Impressed.,2023-11-02 03:26:00,248,56,#mood,-0.27
+1089,1,Worst experience ever.,2023-11-18 00:33:00,93,124,#UX,-0.42
+1090,93,"Another day, another post.",2023-10-06 22:22:00,264,146,"#fail,#design",0.6
+1091,40,Brilliant performance!,2023-10-25 09:21:00,480,136,#AI,-0.51
+1092,36,Feeling good about this!,2023-11-09 06:34:00,217,124,"#AI,#fail",-0.86
+1093,55,Super clean design. Impressed.,2023-10-07 08:00:00,304,68,"#cleanUI,#AI",-0.01
+1094,70,Feeling good about this!,2023-10-09 20:14:00,45,29,"#bug,#UX",0.89
+1095,55,Super clean design. Impressed.,2023-11-14 13:51:00,459,76,"#cleanUI,#tech",0.89
+1096,82,Super clean design. Impressed.,2023-10-26 06:10:00,333,82,"#bug,#UX,#design",0.55
+1097,58,Not bad. Could be better.,2023-10-08 11:37:00,332,194,#python,-0.49
+1098,98,Super clean design. Impressed.,2023-11-18 07:03:00,374,120,"#design,#tech,#python",-0.21
+1099,78,Not bad. Could be better.,2023-10-23 23:21:00,180,169,#bug,-0.52
+1100,73,Worst experience ever.,2023-11-20 12:00:00,457,14,"#bug,#AI,#python",0.07
+1101,76,Love the UX and features.,2023-11-01 17:55:00,317,57,"#python,#bug,#design",0.06
+1102,83,Love the UX and features.,2023-12-07 08:30:00,222,37,"#fail,#tech",0.68
+1103,70,Loving the new update!,2023-10-29 00:52:00,109,65,"#bug,#innovation",-0.48
+1104,6,Brilliant performance!,2023-11-20 09:45:00,145,22,"#fail,#bug,#cleanUI",0.18
+1105,95,"Another day, another post.",2023-11-02 02:39:00,239,96,"#fail,#tech",0.02
+1106,38,Worst experience ever.,2023-11-10 00:39:00,157,164,"#UX,#AI,#design",-0.73
+1107,17,Not bad. Could be better.,2023-10-27 17:20:00,247,127,"#fail,#python",-0.6
+1108,84,Not bad. Could be better.,2023-11-26 17:01:00,21,48,"#fail,#cleanUI,#bug",-0.79
+1109,20,Brilliant performance!,2023-10-09 02:34:00,393,110,#tech,0.04
+1110,8,Super clean design. Impressed.,2023-11-02 23:31:00,8,175,#fail,-0.99
+1111,21,"Another day, another post.",2023-10-23 11:28:00,122,27,"#fail,#bug",0.11
+1112,17,Loving the new update!,2023-10-29 17:33:00,469,67,"#fail,#AI,#cleanUI",-0.23
+1113,29,Not bad. Could be better.,2023-10-23 17:25:00,63,61,#cleanUI,-0.71
+1114,7,"Another day, another post.",2023-11-12 16:07:00,496,198,#bug,0.95
+1115,55,Love the UX and features.,2023-10-19 21:08:00,472,115,"#cleanUI,#mood,#innovation",0.57
+1116,2,Not bad. Could be better.,2023-11-03 04:15:00,423,176,"#fail,#tech",0.68
+1117,80,Love the UX and features.,2023-12-08 17:25:00,165,147,"#bug,#innovation",0.88
+1118,60,Worst experience ever.,2023-11-16 02:32:00,107,87,"#design,#fail",-0.43
+1119,89,Feeling good about this!,2023-11-25 00:28:00,290,161,"#tech,#mood",0.8
+1120,24,Loving the new update!,2023-11-05 02:17:00,175,150,#bug,0.03
+1121,25,Brilliant performance!,2023-11-04 12:18:00,394,163,"#innovation,#fail,#python",-0.4
+1122,35,Not bad. Could be better.,2023-10-03 22:39:00,492,167,#innovation,-0.59
+1123,36,Feeling good about this!,2023-10-25 21:27:00,15,84,"#bug,#cleanUI,#mood",-0.22
+1124,53,This app keeps crashing!,2023-10-14 01:08:00,344,178,#AI,-0.88
+1125,99,Loving the new update!,2023-12-04 21:09:00,182,93,#cleanUI,0.05
+1126,67,Not bad. Could be better.,2023-10-13 00:54:00,255,2,#innovation,0.66
+1127,68,This app keeps crashing!,2023-11-06 05:16:00,430,37,#innovation,0.7
+1128,95,Brilliant performance!,2023-10-15 13:09:00,284,36,"#tech,#mood",-0.9
+1129,30,Super clean design. Impressed.,2023-10-14 01:31:00,146,49,"#innovation,#cleanUI",-0.09
+1130,66,Such a buggy release.,2023-11-11 01:48:00,338,7,"#cleanUI,#UX,#AI",0.5
+1131,18,Loving the new update!,2023-10-22 08:04:00,390,180,"#UX,#bug",0.48
+1132,81,Worst experience ever.,2023-11-29 22:52:00,123,63,"#cleanUI,#fail,#UX",-0.07
+1133,83,Loving the new update!,2023-11-09 17:53:00,394,6,#mood,0.68
+1134,29,Worst experience ever.,2023-10-23 14:47:00,337,176,"#mood,#tech",-0.89
+1135,83,Worst experience ever.,2023-11-11 14:09:00,129,41,#mood,-1.0
+1136,21,Feeling good about this!,2023-10-13 18:31:00,143,6,#mood,0.92
+1137,2,Loving the new update!,2023-10-22 09:35:00,187,41,"#mood,#bug,#fail",0.76
+1138,20,Not bad. Could be better.,2023-10-21 22:30:00,337,142,"#UX,#innovation,#fail",-0.98
+1139,40,Feeling good about this!,2023-12-05 07:13:00,228,132,#cleanUI,-0.5
+1140,65,Not bad. Could be better.,2023-10-08 04:34:00,414,162,"#cleanUI,#fail",0.27
+1141,14,Super clean design. Impressed.,2023-11-21 18:20:00,448,3,"#UX,#mood,#python",0.3
+1142,61,Not bad. Could be better.,2023-10-02 12:41:00,155,182,#mood,-0.85
+1143,91,Loving the new update!,2023-12-03 18:52:00,144,194,"#mood,#fail,#tech",-0.36
+1144,100,Loving the new update!,2023-11-05 04:29:00,58,99,"#UX,#innovation",0.14
+1145,34,Super clean design. Impressed.,2023-12-06 12:08:00,425,148,#design,-0.38
+1146,86,Such a buggy release.,2023-11-30 05:33:00,387,7,"#python,#tech",0.3
+1147,99,This app keeps crashing!,2023-11-23 02:34:00,27,40,"#bug,#python,#design",0.17
+1148,61,Not bad. Could be better.,2023-11-13 13:52:00,427,134,#fail,-0.68
+1149,27,Loving the new update!,2023-10-24 01:20:00,224,180,"#innovation,#bug",-0.04
+1150,9,Such a buggy release.,2023-11-09 15:12:00,335,134,#innovation,-0.95
+1151,82,Feeling good about this!,2023-10-07 06:00:00,152,23,#python,0.55
+1152,69,Not bad. Could be better.,2023-11-28 22:45:00,0,200,"#fail,#design,#cleanUI",0.15
+1153,76,Such a buggy release.,2023-10-03 13:07:00,187,49,#fail,0.07
+1154,48,Worst experience ever.,2023-10-12 07:13:00,0,142,#fail,-0.24
+1155,86,Super clean design. Impressed.,2023-11-23 14:48:00,280,125,#design,-0.93
+1156,47,Brilliant performance!,2023-11-20 18:14:00,82,187,"#cleanUI,#fail",-0.49
+1157,29,Love the UX and features.,2023-10-21 02:46:00,256,149,"#innovation,#bug,#python",0.47
+1158,27,"Another day, another post.",2023-11-02 01:27:00,29,114,"#innovation,#cleanUI,#UX",-0.1
+1159,16,Not bad. Could be better.,2023-11-12 20:31:00,411,173,"#cleanUI,#python",-0.39
+1160,57,Feeling good about this!,2023-11-27 03:24:00,85,62,"#python,#cleanUI",1.0
+1161,29,"Another day, another post.",2023-11-01 13:42:00,142,153,"#cleanUI,#bug,#innovation",0.02
+1162,29,Love the UX and features.,2023-11-01 12:53:00,41,110,"#UX,#tech,#innovation",-0.06
+1163,72,Feeling good about this!,2023-11-28 04:55:00,364,160,"#fail,#bug,#design",-0.27
+1164,45,Loving the new update!,2023-11-26 21:41:00,225,168,#AI,-0.55
+1165,1,Worst experience ever.,2023-10-06 05:05:00,374,128,#AI,-0.97
+1166,71,Feeling good about this!,2023-11-18 23:58:00,202,100,"#tech,#innovation,#mood",-0.25
+1167,54,"Another day, another post.",2023-11-19 11:30:00,162,105,"#AI,#bug,#cleanUI",0.2
+1168,62,Super clean design. Impressed.,2023-11-28 03:08:00,250,159,"#tech,#fail,#AI",-1.0
+1169,17,Loving the new update!,2023-10-26 23:08:00,388,100,"#python,#fail",0.46
+1170,34,Loving the new update!,2023-10-04 09:03:00,201,70,"#design,#AI",-0.14
+1171,2,Brilliant performance!,2023-10-31 19:02:00,307,161,"#design,#UX,#fail",-0.66
+1172,80,Such a buggy release.,2023-10-04 15:30:00,52,119,"#bug,#UX,#design",-0.61
+1173,80,"Another day, another post.",2023-12-03 11:47:00,303,137,"#cleanUI,#innovation",-0.24
+1174,41,Loving the new update!,2023-11-03 22:22:00,6,27,"#AI,#mood",0.76
+1175,20,Super clean design. Impressed.,2023-10-09 04:07:00,455,103,"#python,#mood",0.26
+1176,9,Such a buggy release.,2023-12-01 19:57:00,78,182,"#UX,#mood,#design",-0.61
+1177,59,This app keeps crashing!,2023-12-07 10:55:00,78,33,"#cleanUI,#innovation",0.64
+1178,79,Loving the new update!,2023-12-01 03:34:00,221,12,"#design,#AI",-0.45
+1179,58,Brilliant performance!,2023-10-21 11:01:00,442,69,"#UX,#AI,#bug",0.4
+1180,88,Super clean design. Impressed.,2023-11-11 19:59:00,246,69,"#design,#tech",-0.36
+1181,37,This app keeps crashing!,2023-11-17 14:15:00,140,4,"#bug,#tech",0.11
+1182,1,"Another day, another post.",2023-10-27 04:14:00,70,124,"#mood,#tech,#innovation",0.59
+1183,22,Not bad. Could be better.,2023-10-20 16:17:00,181,111,"#fail,#mood,#AI",0.1
+1184,76,"Another day, another post.",2023-10-15 19:48:00,289,114,#cleanUI,-0.03
+1185,1,"Another day, another post.",2023-11-23 13:13:00,438,192,#tech,-0.79
+1186,3,Worst experience ever.,2023-12-06 16:33:00,47,10,"#bug,#cleanUI",-0.74
+1187,45,Love the UX and features.,2023-10-21 14:59:00,127,100,"#fail,#UX",-0.31
+1188,43,Super clean design. Impressed.,2023-10-07 11:25:00,373,8,#design,-0.92
+1189,45,This app keeps crashing!,2023-10-14 02:27:00,61,94,"#cleanUI,#design,#tech",-0.06
+1190,66,Such a buggy release.,2023-11-17 07:43:00,380,50,"#tech,#bug",-0.83
+1191,26,Not bad. Could be better.,2023-10-21 08:47:00,385,170,#innovation,-0.94
+1192,29,"Another day, another post.",2023-10-17 15:09:00,399,20,"#design,#AI,#bug",0.26
+1193,71,Feeling good about this!,2023-11-21 13:24:00,336,87,"#tech,#UX,#python",0.59
+1194,91,Brilliant performance!,2023-10-30 17:11:00,421,46,"#fail,#UX,#innovation",-0.6
+1195,13,"Another day, another post.",2023-11-29 02:32:00,12,121,#python,0.88
+1196,50,Love the UX and features.,2023-11-29 03:08:00,488,10,#design,0.04
+1197,17,This app keeps crashing!,2023-11-26 21:08:00,471,35,"#python,#fail,#innovation",-1.0
+1198,1,Feeling good about this!,2023-11-23 23:25:00,45,53,"#UX,#python",-0.71
+1199,1,Not bad. Could be better.,2023-12-06 15:36:00,417,190,"#bug,#UX",-1.0
+1200,3,Super clean design. Impressed.,2023-12-05 14:02:00,31,152,"#mood,#UX,#tech",0.47
+1201,69,Not bad. Could be better.,2023-10-23 17:44:00,358,98,#bug,-0.5
+1202,5,Not bad. Could be better.,2023-10-29 13:50:00,415,171,#cleanUI,-0.18
+1203,40,"Another day, another post.",2023-10-28 18:17:00,290,98,"#innovation,#mood",0.99
+1204,82,Such a buggy release.,2023-12-04 15:23:00,470,146,"#mood,#bug",0.06
+1205,38,Such a buggy release.,2023-11-23 12:25:00,330,21,"#cleanUI,#python,#UX",-0.56
+1206,17,Super clean design. Impressed.,2023-10-15 04:40:00,297,22,#UX,0.28
+1207,20,Not bad. Could be better.,2023-10-07 07:10:00,179,102,"#bug,#mood,#python",-0.83
+1208,35,Super clean design. Impressed.,2023-12-08 09:51:00,236,190,"#python,#fail,#innovation",-0.61
+1209,9,Feeling good about this!,2023-10-18 11:48:00,98,127,#tech,-0.64
+1210,98,This app keeps crashing!,2023-12-08 18:45:00,234,96,"#bug,#python,#innovation",0.97
+1211,2,Loving the new update!,2023-12-01 21:26:00,456,116,#bug,-0.77
+1212,7,"Another day, another post.",2023-11-15 20:45:00,11,14,#fail,-0.21
+1213,94,Love the UX and features.,2023-10-17 02:36:00,411,159,"#AI,#cleanUI,#tech",0.01
+1214,7,Brilliant performance!,2023-11-17 12:15:00,203,174,"#fail,#AI,#tech",0.62
+1215,20,Super clean design. Impressed.,2023-10-11 01:41:00,220,174,#bug,-0.99
+1216,96,Not bad. Could be better.,2023-11-18 08:49:00,14,192,"#mood,#innovation",-0.38
+1217,48,Love the UX and features.,2023-12-03 04:23:00,33,158,"#innovation,#UX",-0.88
+1218,81,Worst experience ever.,2023-10-07 07:16:00,312,44,#fail,-0.65
+1219,58,This app keeps crashing!,2023-11-26 09:47:00,369,159,#AI,0.72
+1220,91,Love the UX and features.,2023-11-03 14:48:00,30,58,"#design,#tech,#AI",-0.33
+1221,87,Brilliant performance!,2023-12-08 16:17:00,391,68,#design,-0.88
+1222,80,Brilliant performance!,2023-11-20 11:01:00,100,47,"#bug,#fail,#python",-0.6
+1223,37,Super clean design. Impressed.,2023-10-01 01:14:00,194,15,"#fail,#cleanUI",-0.57
+1224,70,Super clean design. Impressed.,2023-10-15 00:58:00,314,43,"#design,#python",0.5
+1225,83,Love the UX and features.,2023-11-25 15:14:00,348,74,"#tech,#python,#AI",-0.07
+1226,11,Brilliant performance!,2023-11-30 05:30:00,254,12,#design,0.77
+1227,57,Feeling good about this!,2023-11-24 22:23:00,247,118,"#python,#cleanUI,#bug",-0.93
+1228,83,Brilliant performance!,2023-11-11 04:57:00,298,147,"#AI,#cleanUI",0.48
+1229,38,This app keeps crashing!,2023-10-15 21:37:00,59,42,"#bug,#AI,#tech",0.3
+1230,28,This app keeps crashing!,2023-11-23 17:28:00,86,195,"#UX,#cleanUI,#python",0.07
+1231,9,Worst experience ever.,2023-10-31 08:02:00,145,108,"#AI,#cleanUI",-0.05
+1232,94,Not bad. Could be better.,2023-12-07 02:49:00,437,167,#design,-0.67
+1233,50,Brilliant performance!,2023-10-16 06:36:00,335,80,"#tech,#cleanUI",-0.38
+1234,2,This app keeps crashing!,2023-11-30 10:22:00,108,163,"#innovation,#AI",0.88
+1235,19,This app keeps crashing!,2023-11-06 18:24:00,358,68,"#tech,#fail",0.37
+1236,40,"Another day, another post.",2023-11-10 16:08:00,211,96,#AI,0.35
+1237,48,Brilliant performance!,2023-11-27 05:37:00,121,49,"#fail,#python",-0.46
+1238,99,This app keeps crashing!,2023-11-09 05:43:00,161,129,"#bug,#tech",-0.33
+1239,1,Feeling good about this!,2023-11-12 09:17:00,48,127,"#cleanUI,#innovation,#fail",0.7
+1240,2,Such a buggy release.,2023-10-15 08:36:00,1,161,"#bug,#cleanUI",-1.0
+1241,62,This app keeps crashing!,2023-11-30 06:40:00,118,92,#bug,0.69
+1242,11,Super clean design. Impressed.,2023-12-06 05:57:00,351,200,"#cleanUI,#AI,#bug",-0.88
+1243,88,This app keeps crashing!,2023-11-17 18:13:00,404,199,"#mood,#innovation",-0.67
+1244,4,Love the UX and features.,2023-11-13 04:57:00,8,108,"#bug,#design,#innovation",-0.19
+1245,31,This app keeps crashing!,2023-11-04 18:27:00,234,149,"#python,#cleanUI,#design",-0.33
+1246,51,Super clean design. Impressed.,2023-11-27 08:56:00,495,181,"#design,#cleanUI",0.24
+1247,4,Super clean design. Impressed.,2023-12-05 01:08:00,423,106,"#fail,#bug",-0.86
+1248,80,Loving the new update!,2023-12-04 17:21:00,398,13,#cleanUI,0.98
+1249,32,Worst experience ever.,2023-11-11 08:09:00,193,46,"#design,#cleanUI",-0.59
+1250,76,Worst experience ever.,2023-12-07 13:01:00,243,24,"#UX,#innovation",-0.09
+1251,35,Loving the new update!,2023-10-08 22:03:00,434,26,"#innovation,#tech,#AI",-0.26
+1252,38,Love the UX and features.,2023-11-25 17:14:00,223,29,"#design,#fail,#python",-0.62
+1253,27,Feeling good about this!,2023-10-10 22:09:00,462,137,#innovation,-0.96
+1254,82,Super clean design. Impressed.,2023-10-08 10:09:00,280,24,"#innovation,#bug",0.76
+1255,92,Love the UX and features.,2023-11-10 02:09:00,339,141,#innovation,0.59
+1256,11,Such a buggy release.,2023-11-03 02:30:00,157,186,#python,0.08
+1257,56,Super clean design. Impressed.,2023-10-24 08:48:00,360,187,#tech,0.56
+1258,6,"Another day, another post.",2023-11-20 15:31:00,497,56,#design,-0.22
+1259,24,Feeling good about this!,2023-11-21 23:01:00,11,75,"#cleanUI,#tech",-0.25
+1260,41,Love the UX and features.,2023-11-10 10:35:00,55,69,"#innovation,#cleanUI,#python",-0.98
+1261,67,Loving the new update!,2023-10-23 13:22:00,356,17,"#fail,#python,#innovation",0.29
+1262,33,Love the UX and features.,2023-10-11 21:04:00,428,157,"#tech,#cleanUI,#AI",-0.4
+1263,14,Such a buggy release.,2023-12-06 21:49:00,131,114,#bug,-0.73
+1264,20,Such a buggy release.,2023-10-22 20:26:00,426,93,"#innovation,#design,#cleanUI",0.68
+1265,93,Love the UX and features.,2023-10-06 15:07:00,9,175,"#python,#bug",-0.61
+1266,49,"Another day, another post.",2023-11-03 10:57:00,140,126,#tech,-0.87
+1267,100,Loving the new update!,2023-12-08 09:41:00,482,48,"#python,#AI,#bug",0.1
+1268,68,Worst experience ever.,2023-11-07 15:54:00,317,114,"#bug,#tech,#innovation",-0.33
+1269,12,This app keeps crashing!,2023-12-01 01:26:00,33,165,#python,-0.97
+1270,32,Loving the new update!,2023-11-03 14:09:00,372,200,"#innovation,#tech,#mood",-0.45
+1271,10,Feeling good about this!,2023-10-09 11:16:00,284,154,#innovation,-0.31
+1272,38,"Another day, another post.",2023-10-10 11:33:00,459,110,"#python,#bug,#AI",-0.99
+1273,76,Loving the new update!,2023-12-06 05:16:00,258,123,"#cleanUI,#tech",-0.04
+1274,86,Worst experience ever.,2023-11-24 22:12:00,36,169,#innovation,-0.86
+1275,60,This app keeps crashing!,2023-11-28 19:14:00,293,40,"#design,#innovation",0.24
+1276,60,Loving the new update!,2023-11-01 08:19:00,50,60,"#mood,#python",-0.05
+1277,68,This app keeps crashing!,2023-11-08 21:43:00,453,47,#fail,-0.57
+1278,50,"Another day, another post.",2023-10-06 03:11:00,253,144,"#cleanUI,#AI,#design",0.66
+1279,50,Such a buggy release.,2023-10-20 21:18:00,377,13,"#AI,#tech,#python",0.21
+1280,56,Loving the new update!,2023-11-08 00:40:00,212,174,"#AI,#innovation",0.79
+1281,79,This app keeps crashing!,2023-11-15 21:26:00,87,127,"#cleanUI,#AI,#fail",-0.12
+1282,83,Loving the new update!,2023-12-05 22:24:00,465,5,#cleanUI,-0.89
+1283,92,Brilliant performance!,2023-10-12 01:11:00,376,73,"#bug,#AI,#UX",-0.04
+1284,34,"Another day, another post.",2023-10-21 13:12:00,317,176,"#UX,#bug,#innovation",-0.05
+1285,44,Loving the new update!,2023-11-18 21:56:00,373,76,"#tech,#mood,#AI",-0.14
+1286,96,Not bad. Could be better.,2023-10-19 04:51:00,178,80,#tech,0.85
+1287,40,Not bad. Could be better.,2023-12-04 17:45:00,80,198,"#mood,#python,#fail",-0.11
+1288,22,Brilliant performance!,2023-10-12 19:24:00,334,181,#fail,-0.75
+1289,65,"Another day, another post.",2023-11-04 01:16:00,19,63,"#AI,#design,#python",0.74
+1290,22,Worst experience ever.,2023-11-28 00:00:00,251,102,#UX,-0.6
+1291,58,Such a buggy release.,2023-11-07 16:05:00,390,158,"#python,#design,#fail",-0.93
+1292,65,Feeling good about this!,2023-11-09 03:55:00,338,62,"#bug,#mood,#innovation",-0.34
+1293,20,Loving the new update!,2023-11-18 03:54:00,200,36,"#UX,#design",0.14
+1294,66,Worst experience ever.,2023-10-26 22:32:00,227,94,"#python,#mood,#design",0.38
+1295,23,Feeling good about this!,2023-11-06 08:12:00,463,87,"#python,#fail,#AI",-0.78
+1296,64,"Another day, another post.",2023-10-14 23:22:00,397,164,"#tech,#cleanUI,#mood",0.32
+1297,43,Such a buggy release.,2023-11-27 21:38:00,321,10,"#cleanUI,#UX",-0.83
+1298,7,Love the UX and features.,2023-10-29 13:34:00,63,116,"#innovation,#python,#tech",-0.25
+1299,76,This app keeps crashing!,2023-10-21 14:12:00,127,182,#cleanUI,0.19
+1300,92,Feeling good about this!,2023-12-06 01:06:00,127,99,#AI,0.72
